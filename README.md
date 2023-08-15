@@ -1,5 +1,4 @@
-[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F3239444.jpg&f=1&nofb=1&ipt=0266e6bcd3b84cead7322f8b0d2caa0934fdd25b3d374e731e2d0c77ffa80c1f&ipo=images))
-
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F2397009.jpg&f=1&nofb=1&ipt=98bf8c268ece4a96cbe5f09ffd59c41320342b60940210272170568b44f912bf&ipo=images)
 <h1 align="center">Hi 👋, I'm Hasan Tekbaş</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
