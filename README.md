@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 📝 I regularly write articles on [www.hasantekbas.com](www.hasantekbas.com)
+- 📝 I regularly write articles on <a href="www.hasantekbas.com">www.hasantekbas.com<a>
 
 - 📫 How to reach me **hasanntekbas@gmail.com**
 
